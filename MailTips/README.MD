@@ -1,3 +1,3 @@
 ### Format CSV
-Lp.,Nazwa,domena,remote
+Lp.;Nazwa;domena;remote
 
